@@ -5,7 +5,7 @@
 
 # Hi there, I'm Andrzej Świętek 👋
 
-### Have a look what I'm up to => [swietek.pl][website]
+### Have a look what I'm up to ➡️ [swietek.pl][website]
 I'm 3rd grade High School student in Poland. I'm realy into robotics therefore currently I'm learning ROS, C++ and Python. Additionally Mashine Learning is something I've been working on recently. 
 
 <!--
