@@ -72,9 +72,9 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/AndrzejSwietek2001/AndrzejSwietek2001">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrzejswietek2001&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrzejswietek2001&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/AndrzejSwietek2001/AndrzejSwietek2001"">
+<a href="https://github.com/AndrzejSwietek2001/AndrzejSwietek2001">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrzejswietek2001&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Andrzej's GitHub Stats" />
 </a>
 
