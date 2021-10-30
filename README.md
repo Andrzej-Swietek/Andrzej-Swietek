@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-
+<!-- 
 ### Languages and Tools:
 
 
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <br><br>
 
-
+ -->
 
 <a href="https://github.com/AndrzejSwietek2001/AndrzejSwietek2001">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrzejswietek2001&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
