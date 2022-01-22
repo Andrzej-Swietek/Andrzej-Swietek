@@ -6,7 +6,7 @@
 # Hi there, I'm Andrzej Świętek 👋
 
 ### Have a look what I'm up to ➡️ [swietek.pl][website]
-I'm 3rd grade High School student in Poland. I'm realy into robotics therefore currently I'm learning ROS, C++ and Python. Additionally Mashine Learning is something I've been working on recently. 
+I'm 4 th grade High School student in Poland. I'm realy into robotics therefore currently I'm learning ROS, C++ and Python. Additionally Mashine Learning is something I've been working on recently. 
 
 <!--
 **AndrzejSwietek2001/AndrzejSwietek2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 
 ### Connect with me:
-
-[<img align="left" alt="swietek.pl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+#### Email: mr.andi321@gmail.com
+<!-- [<img align="left" alt="swietek.pl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="swietek.pl" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="swietek.pl" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/instagram.svg" />][instagram]
-
+ -->
 
 
 <br>
