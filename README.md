@@ -4,8 +4,9 @@
 
 
 # Hi there, I'm Andrzej Świętek 👋
-
+<!--
 ### Have a look what I'm up to ➡️ [swietek.pl][website]
+-->
 I'm 4 th grade High School student in Poland. I'm realy into robotics therefore currently I'm learning ROS, C++ and Python. Additionally Mashine Learning is something I've been working on recently. 
 
 <!--
