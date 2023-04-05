@@ -7,7 +7,14 @@
 <!--
 ### Have a look what I'm up to ➡️ [swietek.pl][website]
 -->
-I'm 4 th grade High School student in Poland. I'm realy into robotics therefore currently I'm learning ROS, C++ and Python. Additionally Mashine Learning is something I've been working on recently. 
+I'm a Polish 🇵🇱 AGH student with a major in Applied Computer Science.
+
+I'm really into interesting algorithms and problem-solving itself. Additionally, I'm an enthusiast of technologies like:
+ - Python 
+ - Java
+ - GoLang
+ 
+ Except for that, I find AI and Machine Learning algorithms particularly interesting. 
 
 <!--
 **AndrzejSwietek2001/AndrzejSwietek2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
