@@ -10,11 +10,19 @@
 I'm a Polish 🇵🇱 AGH student with a major in Applied Computer Science.
 
 I'm really into interesting algorithms and problem-solving itself. Additionally, I'm an enthusiast of technologies like:
- - Python 
- - Java
- - GoLang
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,java,docker,python,vim" />
+  </a>
+</p>
  
  Except for that, I find AI and Machine Learning algorithms particularly interesting. 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  </a>
+</p>
 
 <!--
 **AndrzejSwietek2001/AndrzejSwietek2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
