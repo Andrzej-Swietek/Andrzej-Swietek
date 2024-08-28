@@ -1,12 +1,10 @@
-
+<!--
 [![Header](https://raw.githubusercontent.com/Andrzej-Swietek/Andrzej-Swietek/master/readme_header.png "Header")][website]
-
+-->
 
 
 # Hi there, I'm Andrzej Świętek 👋
-<!--
-### Have a look what I'm up to ➡️ [swietek.pl][website]
--->
+
 I'm a Polish 🇵🇱 AGH student with a major in Applied Computer Science.
 
 I'm really into interesting algorithms and problem-solving itself. Additionally, I'm an enthusiast of technologies like:
@@ -42,11 +40,6 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 #### Email: mr.andi321@gmail.com
-<!-- [<img align="left" alt="swietek.pl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="swietek.pl" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="swietek.pl" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/instagram.svg" />][instagram]
- -->
-
 
 <br>
 <br>
