@@ -11,7 +11,7 @@ I'm really into interesting algorithms and problem-solving itself. Additionally,
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,java,docker,python,vim" />
+    <img src="https://skillicons.dev/icons?i=go,java,scala,docker,python,vim" />
   </a>
 </p>
  
